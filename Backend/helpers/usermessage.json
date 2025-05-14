@@ -1,0 +1,25 @@
+{ "user_added_success":"user Add Successfully!",
+"user_add_fail":"user Add fail",
+"user_deleted_success":"user Deleted Successfully!",
+"user_notdeleted_success":"user notDeleted Successfully!",
+"user_are_wrong":"user error",
+"user_email_exits":"user already email exists",
+"user_register":" user register Successfully",
+"user_email_error":"user email not exits",
+"user_view_success":"user view Successfully",
+"user_not_view_success":"user Not view Successfully",
+"user_update_success":"user update success",
+"users_not_found":"users not found",
+"something_update_wrong":"something update wrong",
+"password_not_match":"password not match",
+"user_login_success":"user login success",
+"category_name_already_exits":"category_name already exits",
+"category_name_added_success":"category_name added Successfully",
+"category_name_add_fail":"category_name add fail",
+"category_view_success":"category view success",
+"category_not_view":"category not view",
+
+"product_add_success":"product_add_success",
+"product_fail":"product_fail"
+
+}
